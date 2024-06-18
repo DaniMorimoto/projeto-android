@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('/pacote/fontes/NEOCYBERN.otf') format('opentype');
+    src: url('/pacote/fontes/NEO CYBERN.otf') format('opentype');
 }
 
 :root {
@@ -18,7 +18,7 @@
 
     --font-padrao: Arial, verdana, Helvetica, sans-serif;
     --font-destaque:  'Bebas Neue', sans-serif;
-    --fonte-Android: 'neocybern', sans-serif;
+    --fonte-Android: 'NEO CYBERN', sans-serif;
 
     }
 
