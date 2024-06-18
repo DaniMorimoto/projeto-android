@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('/pacote/fontes/idroid.otf') format('opentype'), url('/pacote/fontes/idroid.ttf') format('TrueType');
+    src: url('/pacote/fontes/NEOCYBERN.otf') format('opentype');
 }
 
 :root {
@@ -18,7 +18,7 @@
 
     --font-padrao: Arial, verdana, Helvetica, sans-serif;
     --font-destaque:  'Bebas Neue', sans-serif;
-    --fonte-Android: 'idroid', sans-serif;
+    --fonte-Android: 'neocybern', sans-serif;
 
     }
 
